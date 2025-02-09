@@ -1,0 +1,4 @@
+{
+    "always_sudo": false,
+    "prompt_before_execute": true
+}
